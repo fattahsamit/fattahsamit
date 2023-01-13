@@ -1,7 +1,7 @@
 # Hello there ❗❗❗ 
-# I'm Fattah Samit
+## I'm Fattah Samit
 
-## 👨🏻‍💻 &nbsp;About Me 
+### 👨🏻‍💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Jack of all trades and a master if needs be.
 - 🎓 &nbsp; BSc. Computer Science & Engineering at Daffodil International University.
@@ -10,7 +10,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fattahsamit&label=Profile%20views&color=0e75b6&style=flat" alt="fattah" /> </p>
 
-## 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
