@@ -1,5 +1,4 @@
-# Hello there ❗❗❗ 
-## I'm Fattah Samit
+## Hello there, Fattah Samit here
 
 ### 👨🏻‍💻 &nbsp;About Me 
 
