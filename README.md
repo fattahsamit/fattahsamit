@@ -1,5 +1,4 @@
-# fattahsamit
-<h3> Hello there👋! I'm Fattah Samit.</h2>
+# Hello there❗ I'm Fattah Samit
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
