@@ -13,7 +13,7 @@
 ### 🤝 &nbsp;Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/fattah-samit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fattah-samit" height="30" width="40" /></a>
-</p>
+</p> <br>
 
 <div style="display: flex; flex-direction: row;" align="center">
 <img align="center" style="height: auto; width: 40%" src="https://github-readme-stats.vercel.app/api?username=fattahsamit&show_icons=true&locale=en" alt="fattahsamit" />
