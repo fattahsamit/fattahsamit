@@ -16,6 +16,6 @@
 </p>
 
 <div style="display: flex; flex-direction: row; height: 150px; width: 200px;">
-<img align="center" style="height: auto; width: 40%" src="https://github-readme-stats.vercel.app/api?username=fattahsamit&show_icons=true&locale=en" alt="fattahsamit" />
-<img align="center" style="height: auto; width: 40%" src="https://github-readme-streak-stats.herokuapp.com/?user=fattahsamit&" alt="fattahsamit" />
+<img align="center" style="height: auto; width: 50%" src="https://github-readme-stats.vercel.app/api?username=fattahsamit&show_icons=true&locale=en" alt="fattahsamit" />
+<img align="center" style="height: auto; width: 50%" src="https://github-readme-streak-stats.herokuapp.com/?user=fattahsamit&" alt="fattahsamit" />
 </div>
