@@ -15,8 +15,8 @@
 <a href="https://linkedin.com/in/fattah-samit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fattah-samit" height="30" width="40" /></a>
 </p>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fattahsamit&show_icons=true&locale=en" alt="fattahsamit" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fattahsamit&" alt="fattahsamit" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fattahsamit&show_icons=true&locale=en" alt="fattahsamit" width="50%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fattahsamit&" alt="fattahsamit" width="50%" />
 </div>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fattahsamit&show_icons=true&locale=en" alt="fattahsamit" /></p>
