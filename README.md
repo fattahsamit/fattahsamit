@@ -16,7 +16,7 @@
 </p>
 
 <div style="display: flex; flex-direction: row;" align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fattahsamit&theme=gotham&show_icons=true" alt="fattahsamit" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fattahsamit&theme=gotham&show_icons=true" alt="fattahsamit" /> <br>
 <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=fattahsamit&show_icons=true&theme=gotham" />
 </div>
 <p align="center"><img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=fattahsamit&theme=gotham" /></p>
