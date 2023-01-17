@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/fattah-samit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fattah-samit" height="30" width="40" /></a>
 </p>
 
-<div style="display: flex; flex-direction: row;" align="center">
+<div style="display: flex; flex-direction: row; gap: 10px" align="center">
 <img align="center" style="height: auto; width: 40%" src="https://github-readme-streak-stats.herokuapp.com/?user=fattahsamit&theme=dark&show_icons=true" alt="fattahsamit" />
 <img align="center" style="height: auto; width: 40%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=fattahsamit&show_icons=true&theme=dark" />
 </div>
