@@ -19,5 +19,5 @@
 <img align="center" style="height: auto; width: 40%" src="https://github-readme-streak-stats.herokuapp.com/?user=fattahsamit&theme=dark&show_icons=true" alt="fattahsamit" />
 <img align="center" style="height: auto; width: 40%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=fattahsamit&show_icons=true&theme=dark" />
 </div>
-###
+<br>
 <p align="center"><img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=fattahsamit&theme=dark" /></p>
