@@ -20,4 +20,4 @@
 <img align="center" style="height: auto; width: 40%" src="https://github-readme-streak-stats.herokuapp.com/?user=fattahsamit&theme=dark&show_icons=true" alt="fattahsamit" />
 </div>
 <br>
-<p align="center"><img align="center" style="width: 50%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=fattahsamit&theme=dark" /></p>
+<p align="center"><img align="center" style="width: 20%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=fattahsamit&theme=dark" /></p>
