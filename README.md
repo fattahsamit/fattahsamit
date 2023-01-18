@@ -17,7 +17,6 @@
 
 <div style="display: flex; flex-direction: row;" align="center">
 <img align="center" style="height: auto; width: 40%" src="https://github-readme-streak-stats.herokuapp.com/?user=fattahsamit&theme=dark&show_icons=true" alt="fattahsamit" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=fattahsamit" height="150" alt="languages graph"  />
 <img align="center" style="height: auto; width: 40%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=fattahsamit&show_icons=true&theme=dark" />
 </div>
 <br>
