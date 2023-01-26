@@ -15,9 +15,9 @@
 <a href="https://linkedin.com/in/fattah-samit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fattah-samit" height="30" width="40" /></a>
 </p>
 
-<div style="display: flex; flex-direction: row;" align="center">
-<img align="center" style="height: auto; width: 40%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=fattahsamit&show_icons=true&theme=dark" />
-<img align="center" style="height: auto; width: 40%" src="https://github-readme-streak-stats.herokuapp.com/?user=fattahsamit&theme=dark&show_icons=true" alt="fattahsamit" />
+<div align="center">
+<img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=fattahsamit&show_icons=true&theme=dark" height="150" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fattahsamit&theme=dark&show_icons=true" height="150" alt="fattahsamit" />
 </div>
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=fattahsamit&theme=dark" /></p>
+<div align="center"><img align="center" height="150" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=fattahsamit&theme=dark" /></div>
