@@ -19,5 +19,4 @@
 <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=fattahsamit&show_icons=true&theme=dark" height="150" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fattahsamit&theme=dark&show_icons=true" height="150" alt="fattahsamit" />
 </div>
-<br>
-<div align="center"><img align="center" height="150" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=fattahsamit&theme=dark" /></div>
+<div align="center"><img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=fattahsamit&theme=dark" /></div>
