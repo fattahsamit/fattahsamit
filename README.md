@@ -16,10 +16,10 @@
 </p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=fattahsamit" height="200" alt="languages graph"  />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fattahsamit&theme=dark&show_icons=true" height="200" alt="fattahsamit" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=fattahsamit" height="160" alt="languages graph"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fattahsamit&theme=dark&show_icons=true" height="160" alt="fattahsamit" />
 </div>
 <br>
 <div align="center">
- <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=fattahsamit&show_icons=true&theme=dark" height="200" />
+ <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=fattahsamit&show_icons=true&theme=dark" height="160" />
 </div>
