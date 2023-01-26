@@ -20,4 +20,4 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fattahsamit&theme=dark&show_icons=true" height="150" alt="fattahsamit" />
 </div>
 <br>
-<div align="center"><img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=fattahsamit&theme=dark" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=tausif35" height="150" alt="languages graph"  /></div>
