@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me 
 
-- 😁 &nbsp; Jack of all trades but a master if needed.
+- 😁 &nbsp; Jack of all trades.
 - 🎓 &nbsp; BSc. Computer Science & Engineering at Daffodil International University.
 - 💼 &nbsp; Learning Web Development (MERN stack) and Data Science (Deep Learning). 
 
