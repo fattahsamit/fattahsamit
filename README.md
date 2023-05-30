@@ -34,11 +34,28 @@
  <a href="https://dev.to/fattahsamit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fattahsamit" height="30" width="40" /></a>
 </p>
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fattahsamit&theme=dark&show_icons=true" height="160" alt="fattahsamit" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=fattahsamit" height="160" alt="languages graph"  />
 </div>
 <br>
 <div align="center">
  <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=fattahsamit&show_icons=true&theme=dark" height="160" />
-</div>
+</div> -->
+
+<details>
+<p align="center">
+  <a href="https://github.com/fattahsamit">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fattahsamit&theme=transparent" />
+  </a>
+  <a href="https://github.com/fattahsamit">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fattahsamit&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/fattahsamit">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fattahsamit&theme=transparent" />
+  </a>
+  <a href="https://github.com/fattahsamit">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fattahsamit&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
