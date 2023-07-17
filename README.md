@@ -4,7 +4,7 @@
 
 - 😁 &nbsp; Jack of all trades.
 - 🎓 &nbsp; BSc. Computer Science & Engineering at Daffodil International University.
-- 💼 &nbsp; Learning Web Development (MERN stack) and Data Science (Deep Learning). 
+- 💼 &nbsp; Learning Web Development (MERN stack) and Software Testing. 
 
 ### 🛠 &nbsp;Tech Stack:
  
