@@ -2,9 +2,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me 
 
-- 😁 &nbsp; Jack of all trades.
+- 😁 &nbsp; Swiss army knife
 - 🎓 &nbsp; BSc. Computer Science & Engineering at Daffodil International University.
-- 💼 &nbsp; Learning Web Development (MERN stack) and Software Testing. 
+- 💼 &nbsp; Rebuilding myself as a better software engineer 
 
 ### 🛠 &nbsp;Tech Stack:
  
