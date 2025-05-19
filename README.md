@@ -58,7 +58,3 @@
   </a> -->
 </p>
 </details>
-
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@wildcard/30-nites-of-code)  
-  ![@wildcard #30NitesOfCode](https://www.codedex.io/api/petStatus?user=wildcard)
